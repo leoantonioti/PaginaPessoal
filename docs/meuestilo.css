@@ -1,0 +1,54 @@
+
+/* CORPO DA PAGINA */ 
+body{
+    background-color: rgb(240, 240, 240); /* Altera a cor do Fundo de todo o conteudo dentro de <BODY> */  
+    font-family: "Montserrat", sans-serif; /* Altera a Familia da Fonte Utilizada */
+   /* text-shadow: 2px 2px 4px grey; Adiciona Sombra ao Texto */
+}
+
+
+/* BARRA DE NAVEGAÇÃO V */
+.navbar{
+    background-color: ;/* Cor de funda da barra de navegação */
+}
+
+/* LINKS DA BARRA DE NAVEGAÇÃO v */
+.navbar a{
+    text-decoration: none; /* Remove o Grifado do link da Barra de navegação */
+}
+
+/* NOME E SUBTITULO */ 
+.nome{
+
+}
+
+/* ABA DE DADOS PESSOAIS */ 
+
+.dadospessoais{
+
+}
+
+/* ABA DE DADOS PROFISSIONAIS */ 
+
+.experprofissional{
+
+}
+
+/* ABA DE FORMAÇÃO ACADEMICA */ 
+
+.escolar{
+
+}
+
+/* ABA DE SKILLS */ 
+
+.skill{
+
+}
+
+/* ABA SOBRE MIM */
+
+.sobremim{
+       
+}
+
