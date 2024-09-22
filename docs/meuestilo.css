@@ -10,6 +10,7 @@ body{
 .navbar{
     background-color: #1e1f26;
     display: flex;
+    flex-wrap: wrap;
     font-size: 25px;
     justify-content: space-between; 
     padding: 25px; 
@@ -129,6 +130,4 @@ i{
 i:hover{
     color: #ff0266;
 }
-
-
 
