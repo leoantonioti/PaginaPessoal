@@ -32,7 +32,7 @@ body{
     color: #03dac6;
     text-shadow: 8px 10px 10px rgba(0, 0, 0, 0.717);
     font-weight: bold;
-    font-family: "Montserrat", sans-serif;
+    
     
 }
 
@@ -129,5 +129,6 @@ i{
 
 i:hover{
     color: #ff0266;
+    font-size: 39px;
 }
 
